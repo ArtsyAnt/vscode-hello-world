@@ -1,2 +1,4 @@
 Testing words in text file. 
 The test is continued in this manual edit on github
+
+A new character is added here in this different branch. We will see that this branch does not affect the main branch at all.
