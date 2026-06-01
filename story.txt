@@ -1,1 +1,2 @@
-Testing words in text file.
+Testing words in text file. 
+The test is continued in this manual edit on github
